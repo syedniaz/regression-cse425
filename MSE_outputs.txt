@@ -1,0 +1,136 @@
+Linear
+MSE for Batch Gradient Descent: 0.003915550237893114
+MSE for Mini-Batch Gradient Descent: 0.0035543472595162624
+MSE for Stochastic Gradient Descent: 0.0051559656981660824
+
+Polynomial
+MSE for Batch Gradient Descent with Polynomial Features: 0.005648314400250218
+MSE for Mini-Batch Gradient Descent with Polynomial Features: 0.0036310900582939187
+MSE for Stochastic Gradient Descent with Polynomial Features: 0.012330936171355973
+
+Radial
+0.5,0.15
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.024051950792940396
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.038233868615417596
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.03599904443583522
+
+0.5,0.1
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.021175135193772458
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.03843297941740976
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.033029444298602544
+
+0.1,0.15
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.026007631026274475
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.011023800464791678
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.02796002147715823
+
+0.1,0.1
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.02851207975045833
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.014173702325983856
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.02913616238122576
+
+0.1,0.2
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.02015286325402194
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.009252981050228527
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.026488595725188663
+
+0,0.2
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.03020008922642284
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.007420978166007857
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.023186063437956463
+
+0.05,0.2
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.023328941232826597
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.007862192845341015
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.024825093070832756
+
+0.05,0.1
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.02627198135223214
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.011616497208426087
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.028244629081623528
+
+0, 0.1
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.020105855473564596
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.009660869316760705
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.027102554397027755
+
+-0.9,0.1
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.014829113787817894
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.00415906735443143
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.010336006110312792
+
+-0.8,0.1
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.02801364832717309
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.004326348078160385
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.011647042042986307
+
+-0.8,0.2
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.009324353632267007
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.003632482441864627
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.005387051276612237
+
+-0.9,0.2
+MSE for Batch Gradient Descent with Radial Basis Functions: 0.024230402468028177
+MSE for Mini-Batch Gradient Descent with Radial Basis Functions: 0.003633098126201184
+MSE for Stochastic Gradient Descent with Radial Basis Functions: 0.005387051276612246
+
+-0.9,0.4
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.008966475922230916
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.003534738875797605
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.0049247059739145485
+
+Sigmoid
+10,-5
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.020281485675583095
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.03563603689279608
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.0165322714135156
+
+10,-10
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.02033934297008947
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.03934351320056703
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.025985888226467652
+
+10,0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.013664889024466527
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.010244527152856609
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.018216316380877187
+
+20,0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.019544761928592908
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.012579609700154567
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.03041574744751553
+
+15,0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.01467312802210758
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.011836155825072393
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.027479136885554426
+
+8,0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.01678752683664935
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.00895923269519183
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.011792565731750582
+
+5,0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.012522202905247503
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.005953107196784291
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.006245753001477956
+
+3,0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.006063421155062785
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.004108647179697087
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.00648209494513807
+
+1,0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.021805645845153904
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.0036243964206128534
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.004924705973888114
+
+0.5,0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.011674075080149534
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.0037619372004554772
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.004414697050395433
+
+0, 0
+MSE for Batch Gradient Descent with Sigmoid Basis Functions: 0.020341211111111118
+MSE for Mini-Batch Gradient Descent with Sigmoid Basis Functions: 0.02000080712389166
+MSE for Stochastic Gradient Descent with Sigmoid Basis Functions: 0.023140131728292417
